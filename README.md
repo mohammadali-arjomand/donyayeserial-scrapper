@@ -30,4 +30,4 @@ sqlitebrowser data.db
 Enjoy!
 
 
-> In this time, the repo is private. if you can see this repo and you are not me, it means that i make it public!
+> In this time, the repo is private. if you can see this repo and you are not me, it means that i made it public!
