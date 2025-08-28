@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+API_KEY
+*.json
+*.db
