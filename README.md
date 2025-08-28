@@ -1,5 +1,5 @@
 # DonyayeSerial Scrapper
-This script scraps DonyayeSerial datacenters and extract all movies and series with all qualities. Then, saves them into sqlite file.
+This script scraps DonyayeSerial datacenters and extracts all movies and series with all qualities. Then, saves them into sqlite file.
 
 To use this script, first install this packages (last one is recommended, not required)
 ```bash
