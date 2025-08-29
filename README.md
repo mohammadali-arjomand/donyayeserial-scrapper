@@ -5,9 +5,14 @@ To use this script, first install this packages (last one is recommended, not re
 ```bash
 sudo apt install python3 python3-jupyter* python3-requests python3-bs4 sqlitebrowser
 ```
-Then get an ApiKey from [OMDB](https://omdbapi.com/) and write it in `API_KEY` file next to `scrapping.ipynb`. For example:
+Then get an (or some) ApiKey(s) from [OMDB](https://omdbapi.com/) and write it in `API_KEY` file next to `scrapping.ipynb` (each ApiKey in one line). For example:
 ```
 kci23r22
+sjjw32e
+wekwix
+l3i3i3
+343423
+...
 ```
 > This is a random-typed text!
 
