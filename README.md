@@ -5,7 +5,7 @@ To use this script, first install this packages (last one is recommended, not re
 ```bash
 sudo apt install python3 python3-jupyter* python3-requests python3-bs4 sqlitebrowser
 ```
-Then get an some ApiKeys from [OMDB](https://omdbapi.com/) and write them in `API_KEY` file next to `scrapping.ipynb` (each ApiKey in one line). For example:
+Then get some ApiKeys from [OMDB](https://omdbapi.com/) and write them in `API_KEY` file next to `scrapping.ipynb` (each ApiKey in one line). For example:
 ```
 kci23r22
 sjjw32e
